@@ -1,8 +1,8 @@
-Title,Pay,Entry,Jobs,JobChange
-Software Developers Quality Assurance Analysts and Testers,130160,BA,1897100,327900
-Postsecondary Teachers,84380,PHD,1397600,114000
-Computer Hardware Engineers,138080,BS,84100,6100
-Network and Computer Systems Administrators,95360,BA,335400,-8800
-Web Developers and Digital Designers,92750,BA,222600,18600
-Actuaries,120000,BA,30200,6600
-Political Scientist,132350,MA,6200,200
+jobs,pay,edu,exp,train,n_employed,outlook,change_employment,top_places,physical_work_environment,social_work_environment
+Software Developers Quality Assurance Analysts and Testers,130160,BA,None,None,1897100,17,327900,CA,office,teams
+Postsecondary Teachers,84380,PHD,None,None,1397600,8,114000,NY,campus,teams
+Computer Hardware Engineers,138080,BS,None,None,84100,7,6100,CA,labs,solo
+Network and Computer Systems Administrators,95360,BA,None,None,335400,-3,-8800,TX,office,teams
+Web Developers and Digital Designers,92750,BA,None,None,222600,8,18600,CA,office,teams
+Actuaries,120000,BA,None,Long-term-on-the-job-training,30200,22,6600,CN,office,teams
+Political Scientist,132350,MA,None,None,6200,3,200,DC,office,solo
